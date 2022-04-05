@@ -1,0 +1,10 @@
+bool Contains(const K& key)
+{
+	int idx = 0;
+	
+	while(idx < size && keys[idx] != key)
+	{
+		idx += 1;
+	}
+	return (idx != size);
+}
