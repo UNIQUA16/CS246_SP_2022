@@ -1,0 +1,10 @@
+What is chaining?
+
+Solution:
+hashing with a chain table. 
+
+In your own words, describe the insertion method of chaining?
+
+Solution:
+A hash value is found to select a slot from the hash table, and
+then, the new value is added to the head of the slot. 
