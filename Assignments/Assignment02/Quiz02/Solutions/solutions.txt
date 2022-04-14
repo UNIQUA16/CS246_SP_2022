@@ -1,0 +1,13 @@
+If the set of keys are strings of length 2 that consists of only of digit characters excluding 0 and 
+the hash table has 10 slots, what is the load factor of the table?
+
+Solution:
+# of keys = 81
+# of slots = 10
+load factor = ceiling(81/10) = 9
+
+When would direct addressing be used?
+
+Solution:
+When the number of keys is less than or equal to the number of slots and the 
+hash function is one-to-one.
