@@ -1,0 +1,11 @@
+Exam 03 Results
+=======================================
+Fundamentals		00.00/05.00
+Runtime			00.00/05.00
+Tracing			00.00/05.00
+Problem Solving		00.00/05.00
+Implementation		00.00/05.00
+=======================================
+Total			00.00/25.00
+
++ assessment is missing.
